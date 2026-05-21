@@ -1,0 +1,3 @@
+# Ignore my personal face images and datasets
+/data
+*.jpg
